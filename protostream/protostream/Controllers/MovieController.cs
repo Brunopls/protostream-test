@@ -64,6 +64,13 @@ namespace protostream.Controllers
             _dbContext.SaveChanges();
         }
 
+        [HttpDelete("{id}")]
+        public void Delete(int id)
+        {
+            var movie = _dbContext.Movies.Single(x => x.id == id);
+            _dbContext.Movies.Remove(movie);
+            _dbContext.SaveChanges();
+        }
 
     }
 }
