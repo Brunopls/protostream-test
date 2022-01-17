@@ -51,5 +51,19 @@ namespace protostream.Controllers
 
             return movies.AsEnumerable<Movie>();
         }
+
+        [HttpPost("new")]
+        public void Post([FromBody] Movie movie)
+        {
+            var movies = from m in _dbContext.Movies
+                         select m;
+
+            movie.id = movies.Last().id + 1;
+
+            _dbContext.Movies.Add(movie);
+            _dbContext.SaveChanges();
+        }
+
+
     }
 }
