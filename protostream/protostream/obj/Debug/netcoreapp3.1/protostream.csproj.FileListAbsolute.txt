@@ -1,0 +1,17 @@
+F:\Technical Challenges\Protostream\protostream\protostream\protostream\bin\Debug\netcoreapp3.1\appsettings.Development.json
+F:\Technical Challenges\Protostream\protostream\protostream\protostream\bin\Debug\netcoreapp3.1\appsettings.json
+F:\Technical Challenges\Protostream\protostream\protostream\protostream\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+F:\Technical Challenges\Protostream\protostream\protostream\protostream\bin\Debug\netcoreapp3.1\protostream.exe
+F:\Technical Challenges\Protostream\protostream\protostream\protostream\obj\Debug\netcoreapp3.1\protostream.csprojAssemblyReference.cache
+F:\Technical Challenges\Protostream\protostream\protostream\protostream\obj\Debug\netcoreapp3.1\protostream.AssemblyInfoInputs.cache
+F:\Technical Challenges\Protostream\protostream\protostream\protostream\obj\Debug\netcoreapp3.1\protostream.AssemblyInfo.cs
+F:\Technical Challenges\Protostream\protostream\protostream\protostream\obj\Debug\netcoreapp3.1\protostream.RazorTargetAssemblyInfo.cache
+F:\Technical Challenges\Protostream\protostream\protostream\protostream\obj\Debug\netcoreapp3.1\staticwebassets\protostream.StaticWebAssets.Manifest.cache
+F:\Technical Challenges\Protostream\protostream\protostream\protostream\obj\Debug\netcoreapp3.1\staticwebassets\protostream.StaticWebAssets.xml
+F:\Technical Challenges\Protostream\protostream\protostream\protostream\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+F:\Technical Challenges\Protostream\protostream\protostream\protostream\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\Technical Challenges\Protostream\protostream\protostream\protostream\bin\Debug\netcoreapp3.1\Remotion.Linq.dll
+F:\Technical Challenges\Protostream\protostream\protostream\protostream\bin\Debug\netcoreapp3.1\System.Interactive.Async.dll
+F:\Technical Challenges\Protostream\protostream\protostream\protostream\obj\Debug\netcoreapp3.1\protostream.csproj.CopyComplete
+F:\Technical Challenges\Protostream\protostream\protostream\protostream\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+F:\Technical Challenges\Protostream\protostream\protostream\protostream\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
