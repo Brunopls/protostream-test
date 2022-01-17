@@ -72,5 +72,22 @@ namespace protostream.Controllers
             _dbContext.SaveChanges();
         }
 
+        [HttpPut("{id}")]
+        public void Put(int id, [FromBody] Movie movie)
+        {
+            var oldMovie = _dbContext.Movies.Single(x => x.id == id);
+
+            oldMovie.film = movie.film;
+            oldMovie.genre = movie.genre;
+            oldMovie.leadStudio = movie.leadStudio;
+            oldMovie.audienceScore = movie.audienceScore;
+            oldMovie.profitability = movie.profitability;
+            oldMovie.rottenTomatoes = movie.rottenTomatoes;
+            oldMovie.worldwideGross = movie.worldwideGross;
+            oldMovie.year = movie.year;
+
+            _dbContext.Movies.Update(oldMovie);
+            _dbContext.SaveChanges();
+        }
     }
 }
